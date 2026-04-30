@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a2a6c&height=200&section=header&text=Monjok%20Joseph%20Terem&fontSize=60&animation=fadeIn" />
   
-  <p><b>Chartered Engineering Aspirant | Data Analytics Strategist | ESG Consultant</b></p>
+  <p><b>Civil Engineer (GMNSE) | Data Analytics Strategist | ESG Consultant</b></p>
 
   <a href="https://www.linkedin.com/in/joseph-monjok-a8b813232">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +16,7 @@
 ---
 
 ### 🏛️ Professional Profile
-I am a Graduate Civil Engineer dedicated to the synthesis of structural integrity and computational intelligence. My current professional trajectory involves a pivot toward Machine Learning and Sustainability Consulting, where I apply analytical rigour to the challenges of modern infrastructure. I aim to foster innovation by integrating empirical data with traditional engineering principles to ensure long-term environmental resilience.
+I am a Graduate Civil Engineer dedicated to the synthesis of structural integrity and computational intelligence. My current professional trajectory involves a pivot toward Machine Learning and Sustainability Consulting, where I apply analytical rigour to the challenges of modern infrastructure. I aim to foster innovation by integrating empirical data with traditional principles to ensure long-term environmental resilience.
 
 ---
 
