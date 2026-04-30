@@ -16,7 +16,7 @@
 ---
 
 ### 🏛️ Professional Profile
-I am a Graduate Civil Engineer dedicated to the synthesis of structural integrity and computational intelligence. My current professional trajectory involves a pivot toward Machine Learning and Sustainability Consulting, where I apply analytical rigour to the challenges of modern infrastructure. I aim to foster innovation by integrating empirical data with traditional principles to ensure long-term environmental resilience.
+I am a Graduate Civil Engineer dedicated to the synthesis of structural integrity and computational intelligence. My current professional trajectory involves a pivot toward Machine Learning and Sustainability Consulting, where I apply an analytical approach to the challenges of modern infrastructure. I aim to foster innovation by integrating empirical data with traditional principles to ensure long-term environmental resilience.
 
 ---
 
