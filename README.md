@@ -23,7 +23,7 @@ I am a Graduate Civil Engineer dedicated to the synthesis of structural integrit
 ### 🛠️ Technical Competencies
 
 **Engineering & Structural Design**
-> AutoCAD, Civil 3D, Prota-Structure, Hec-Hms, Structural Design, Analysis, and Documenting.
+> AutoCAD, Civil 3D, Prota-Structure, Hec-Hms, Structural Design, Analysis, and Detailing 
 
 **Analytical Architecture/Skill Stack**
 > Python, SQL, Power BI, MS Excel 
