@@ -32,7 +32,7 @@ I am a Graduate Civil Engineer dedicated to the synthesis of structural integrit
 >Pandas, numpy, seaborn, scikit-learn, Xgboost, Machine learning Algorithms 
 
 **Operational Qualities**
-> Environmental, Social, and Governance (ESG) Frameworks, Risk Assessment, Teamwork and Coordination, Sustainable Strategy,AI Literacy, Deep Learning principles 
+> Environmental, Social, and Governance (ESG) Frameworks, Risk Assessment, Teamwork and Coordination, Sustainable Strategy,AI Literacy, Machine Learning & Deep Learning principles , Occupational Health and Safety,HSE.
 
 ---
 
