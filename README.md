@@ -26,7 +26,7 @@ I am a Graduate Civil Engineer dedicated to the synthesis of structural integrit
 > AutoCAD, Civil 3D, Prota-Structure, Hec-Hms, Structural Design, Analysis, and Documenting.
 
 **Analytical Architecture/Skill Stack**
-> Python, SQL, Power BI, MS Excel ,
+> Python, SQL, Power BI, MS Excel 
 
 **ML Stack**
 >Pandas, numpy, seaborn, scikit-learn, Xgboost, Machine learning Algorithms 
@@ -54,7 +54,7 @@ I am a Graduate Civil Engineer dedicated to the synthesis of structural integrit
 ---
 
 ### 📈 Domains of Interest
-My professional focus encompasses Machine Learning and Artificial Intelligence, specifically their application within Civil Engineering and Structural Health. I am deeply invested in the evolution of ESG standards and the advancement of sustainable global infrastructure.
+My professional focus encompasses Machine Learning and Artificial Intelligence. I am deeply invested in the evolution of ESG standards and the advancement of sustainable global infrastructure.
 
 ---
 
@@ -70,8 +70,9 @@ Beyond my technical commitments, I am a practitioner of the fine arts, specifica
 
 ---
 
-### 📱 Communication
+### 📱 Communication 
 * **Email:** [teremanthony02@gmail.com](mailto:teremanthony02@gmail.com)
 * **LinkedIn:** [joseph-monjok-a8b813232](https://www.linkedin.com/in/joseph-monjok-a8b813232)
 * **Instagram:** [@seinen_liebe](https://www.instagram.com/seinen_liebe)
-* 
+
+please,feel free to reach out.
