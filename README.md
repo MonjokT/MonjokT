@@ -25,11 +25,14 @@ I am a Graduate Civil Engineer dedicated to the synthesis of structural integrit
 **Engineering & Structural Design**
 > AutoCAD, Civil 3D, Prota-Structure, Hec-Hms, Structural Design, Analysis, and Documenting.
 
-**Analytical Architecture**
-> Python, SQL, Power BI, MS Excel.
+**Analytical Architecture/Skill Stack**
+> Python, SQL, Power BI, MS Excel ,
+
+**ML Stack**
+>Pandas, numpy, seaborn, scikit-learn, Xgboost, Machine learning Algorithms 
 
 **Operational Qualities**
-> Environmental, Social, and Governance (ESG) Frameworks, Risk Assessment, Teamwork and Coordination, Sustainable Strategy.
+> Environmental, Social, and Governance (ESG) Frameworks, Risk Assessment, Teamwork and Coordination, Sustainable Strategy,AI Literacy, Deep Learning principles 
 
 ---
 
