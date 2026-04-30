@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a2a6c&height=200&section=header&text=Monjok%20Joseph%20Terem&fontSize=60&animation=fadeIn" />
+
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a2a6c&height=200&section=header&text=Monjok%20Joseph%20Terem&fontSize=60&animation=fadeIn" />
   
   <p><b>Civil Engineer (GMNSE) | Data Analytics Strategist | ESG Consultant</b></p>
 
