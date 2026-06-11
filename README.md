@@ -4,9 +4,8 @@
 **Graduate Civil Engineer (GMNSE, PCOREN) | Data & AI Explorer | ESG Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joseph-monjok-e8b813232)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://instagram.com/seinen_liebe)
 
-> **Current Status:** Open to Graduate Trainee & Entry-Level roles across Civil Engineering, Data Analytics, Data Science, and Sustainability—building solutions where physical infrastructure meets computational intelligence.
+> **Current Status:** Open to Graduate Trainee & Entry-Level roles across Civil Engineering, Data Analytics, Data Science, Machine and Deep Learning,AI and Sustainability—building solutions where physical infrastructure meets computational intelligence.
 
 ---
 
@@ -16,7 +15,7 @@ My journey began with concrete and steel. As a Civil Engineering graduate, I fou
 
 That question changed everything.
 
-It led me to master SQL, Excel, and Power BI—not as a detour from engineering, but as an expansion of it. I see datasets the way I once saw structural blueprints: full of patterns, risks, and possibilities waiting to be uncovered. Today, I sit at the intersection of Civil Engineering, Data Science, and Sustainability. 
+It led me to master SQL, Excel, and Power BI,not as a detour from engineering, but as an expansion of it. I see datasets the way I once saw structural blueprints: full of patterns, risks, and possibilities waiting to be uncovered. Today, I sit at the intersection of Civil Engineering, Data Science, and Sustainability. 
 
 Beyond classical data analytics, I am actively expanding my horizon into Artificial Intelligence—exploring the theoretical frameworks of Machine Learning, Deep Learning, and Neural Networks—because I see massive potential in applying these technologies to solve real-world infrastructure and community challenges. My goal isn't just to build things; it's to develop data-driven tools and solutions that improve communities and transform lives.
 
@@ -45,6 +44,7 @@ Beyond classical data analytics, I am actively expanding my horizon into Artific
 ### 🎓 Academic & Professional Credentials
 
 * **AWS & AI Practitioner Challenge** – Udacity
+* **Google Data Analytics Professional Certificate**-Cousera 
 * **SQL Associate Data Analyst** – DataCamp
 * **ESG Fundamentals** – The ESG Institute
 * **Hydro-Power O&M Essentials** – Sunbird Power Academy
