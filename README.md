@@ -5,17 +5,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joseph-monjok-e8b813232)
 
-> **Current Status:** Open to Graduate Trainee & Entry-Level roles across Civil Engineering, Data Analytics, Data Science, Machine and Deep Learning,AI and Sustainability—building solutions where physical infrastructure meets computational intelligence.
+> **Current Status:** Open to Graduate Trainee & Junior-Level roles across Civil Engineering, Data Analytics, Data Science, Machine and Deep Learning,AI and Sustainability,building solutions where physical infrastructure meets computational intelligence.
 
 ---
 
 ### 🏛️ Professional Profile
 
-My journey began with concrete and steel. As a Civil Engineering graduate, I found myself drawn not just to building structures, but to understanding why they stand, how they can be made safer, and who they ultimately serve. Working on structural designs, conducting maintenance checks on mega-dams, and diving into ESG research all pointed me toward a single, compelling question: **What if data could make engineering smarter, and infrastructure more human?**
+My name is Monjok Joseph Terem,I am a Graduate Civil Engineer from the Federal University of Technology Minna,based here in Nigeria. I have at least more than a year of experience working in the field and have had the opportunity to work on projects in Facility Rehabilitation, Building Construction and Estate Management, Housing,Dam Maintenance and Operations and as well in structural designs.As a Civil Engineering graduate, I found myself drawn not just to building structures, but to understanding why they stand, how they can be made safer, and who they ultimately serve. Working on structural designs, conducting maintenance checks on mega-dams, and diving into ESG research all pointed me toward a single, compelling question: **What if data could make engineering smarter, and infrastructure more human?**
 
 That question changed everything.
 
-It led me to master SQL, Excel, and Power BI,not as a detour from engineering, but as an expansion of it. I see datasets the way I once saw structural blueprints: full of patterns, risks, and possibilities waiting to be uncovered. Today, I sit at the intersection of Civil Engineering, Data Science, and Sustainability. 
+It led me to master and build core supplementary and Analytical skills in SQL, Excel, Python and Power BI,not as a detour from engineering, but as an expansion of it. I see datasets the way I once saw structural blueprints: full of patterns, risks, and possibilities waiting to be uncovered. Today, I sit at the intersection of Civil Engineering, Data Science, and Sustainability. 
 
 Beyond classical data analytics, I am actively expanding my horizon into Artificial Intelligence—exploring the theoretical frameworks of Machine Learning, Deep Learning, and Neural Networks—because I see massive potential in applying these technologies to solve real-world infrastructure and community challenges. My goal isn't just to build things; it's to develop data-driven tools and solutions that improve communities and transform lives.
 
@@ -44,7 +44,9 @@ Beyond classical data analytics, I am actively expanding my horizon into Artific
 ### 🎓 Academic & Professional Credentials
 
 * **AWS & AI Practitioner Challenge** – Udacity
-* **Google Data Analytics Professional Certificate**-Cousera 
+* **Certificate in ESG Reporting(CESGR)**-The ESG Institute 
+* **Google Data Analytics Professional Certificate**-Cousera
+* **Google Project Management Professional Certificate**-Coursera 
 * **SQL Associate Data Analyst** – DataCamp
 * **ESG Fundamentals** – The ESG Institute
 * **Hydro-Power O&M Essentials** – Sunbird Power Academy
@@ -72,4 +74,4 @@ Beyond my technical commitments, I am a practitioner of the fine arts, specifica
 * **Email:** [teremanthony02@gmail.com](mailto:teremanthony02@gmail.com)
 * **LinkedIn:** [joseph-monjok-e8b813232](https://linkedin.com/in/joseph-monjok-e8b813232)
 
-*Please feel free to reach out for collaborations, entry-level opportunities, or networking!*
+*Please feel free to reach out for collaborations, Junior-level opportunities, or networking!*
